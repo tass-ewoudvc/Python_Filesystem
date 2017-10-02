@@ -1,0 +1,13 @@
+
+import os
+
+walk = iter(os.walk('.'))
+next(walk) # skip the current directory, we're already in this SConstruct ...
+sconses = [os.path.join(curdir, 'SConstruct') for curdir, dirs, files in walk if "SConstruct" in files]
+
+env = Environment()
+
+for s in sconses:
+    env.SConscript(s)
+
+env.Alias('run', None)  # to satisfy tests

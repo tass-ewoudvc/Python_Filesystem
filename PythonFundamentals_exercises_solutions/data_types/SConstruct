@@ -1,0 +1,12 @@
+# -*- mode: python -*-
+import SCons
+try:
+	Import('env')
+except SCons.Errors.UserError:
+	env = Environment()
+
+
+env.SConscript('google-basic-solutions/SConstruct')
+
+
+

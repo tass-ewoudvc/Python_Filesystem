@@ -1,0 +1,155 @@
+Snelheidscamera's met radar,,,,,
+Provincie,Gemeente,Type weg,Nr weg,kmpt,thv / richting
+Antwerpen,Arendonk,N,118,"17,346",richting Arendonk centrum
+Antwerpen,Arendonk,N,118,"20
+,320",richting Centrum
+Antwerpen,Arendonk,N,139,"6,727",richting Arendonk
+Antwerpen,Broechem,N,116,"10,970",richting Zandhoven
+Antwerpen,Broechem,N,116,"11,427",richting Ranst
+Antwerpen,Geel,N,19,"12,2",richting Geel
+Antwerpen,Geel,N,19,"19,150",richting Westerlo
+Antwerpen,Geel,N,19,"19,898",richting Geel
+Antwerpen,Geel,N,19,"20,195",richting Westerlo
+Antwerpen,Geel,N,19,"21,005",richting Westerlo
+Antwerpen,Geel,N,71,"2,002",richting Geel
+Antwerpen,Geel,N,71,"2,73",richting Geel
+Antwerpen,Geel,N,118,"0,91",richting Geel
+Antwerpen,Grobbendonk,N,13,"15,58",richting Grobbendonk
+Antwerpen,Herentals,N,153,"1,5",richting Binnenring
+Antwerpen,Herentals,N,153,"4,02",richting Herentals
+Antwerpen,Laakdal,N,127,"10,250",richting Veerle
+Antwerpen,Laakdal,N,141,"1,612",richting Vorst
+Antwerpen,Laakdal,N,141,"7,550",richting Klein-Vorst
+Antwerpen,Laakdal (Groot-Vorst,N,174,"7,2",richting Diest
+Antwerpen,Laakdal (Veerle),N,127,"9,135",richting Veerle
+Antwerpen,Laakdal Klein-Vorst,N,126,"9,994",richting Tessenderlo
+Antwerpen,Mechelen,N,1,"21,14",richting Antwerpen
+Antwerpen,Meerhout,N,110,"4,337",richting centrum
+Antwerpen,Meerhout,N,110,"9,046",richting Centrum
+Antwerpen,Meerhout/Zittaart,N,102,"1,747",richting centrum
+Antwerpen,Merksplas,N,124,"2,7",richting Merksplas
+Antwerpen,Mol,N,103,"5,142",richting Lommel
+Antwerpen,Oud-Turnhout,N,12,"41,510",richting Turnhout
+Antwerpen,Oud-Turnhout,N,18,"2,432",richting Retie
+Antwerpen,Oud-Turnhout,N,18,"2,982",richting Turnhout
+Antwerpen,Putte,N,15,"13,686",richting Mechelen
+Antwerpen,Putte,N,15,"8,949",richting Heist-op-den-Berg
+Antwerpen,Ravels/Poppel,N,12,"52,95",richting Poppel
+Antwerpen,Ravels/Ravels-Eel,N,118,"29,193",richting Ravels
+Antwerpen,Ravels/Weelde,N,12,"51,247",richting Turnhout
+Antwerpen,Retie,N,18,"7,210",richting Oud-Turnhout
+Antwerpen,Retie,N,118,"13,794",richting centrum
+Antwerpen,Retie,N,123,"20,210",richting centrum
+Antwerpen,Schoten,N,115,"6,89",richting Brecht
+Antwerpen,Schoten,N,115,"8,035",richting Antwerpen
+Antwerpen,Turnhout,R,13,"0,477",richting buitenring
+Antwerpen,Turnhout,R,13,"0,562",richting binnenring
+Antwerpen,Turnhout,R,13,"2,9",richting buitenring
+Antwerpen,Turnhout,R,13,"3,4",richting binnenring
+Antwerpen,Turnhout,R,13,"4,865",richting binnenring
+Antwerpen,Turnhout,N,19,"0,264",richting Kasterlee
+Antwerpen,Turnhout,N,19,"1,173",
+Antwerpen,Turnhout,N,19,"2,9",richting Kasterlee
+Antwerpen,Turnhout,N,19,"3,341",richting Turnhout
+Antwerpen,Turnhout,N,140,"1,05",richting Gierle
+Antwerpen,Westerlo,N,152,"6,965",richting Herselt
+Antwerpen,Westerlo,N,152,"7,565",richting Olen
+Limburg,Dilsen-Stokkem,N,75,"24,545",
+Limburg,Dilsen-Stokkem,N,75,"25,665",
+Limburg,Dilsen-Stokkem,N,771,"2,09",
+Limburg,Dilsen-Stokkem,N,771,"2,43",
+Limburg,Genk,N,723,"1,2",
+Limburg,Hasselt,N,75,"0,335",thv. Esso richting Genk
+Limburg,Hasselt,N,729,"1,15",thv. huisnr.95-97 richting Zolder
+Limburg,Hasselt,N,729,"1,359",thv. huisnr.72-74 richting Hasselt
+Limburg,Hechtel-Eksel,N,73,"30,203",thv. Peerdebaan richting Hechtel-Ek
+Limburg,Hechtel-Eksel,N,73,"30,677",thv. Peerdebaan richting Peer
+Limburg,Hechtel-Eksel,N,715,"25,4",richting Lommel
+Limburg,Hechtel-Eksel,N,715,"25,686",richting Hasselt
+Limburg,Lanaken,N,77,"13,317",thv. Henri Dunantstraat richting La
+Limburg,Peer,N,73,"21,31",richting Peer
+Limburg,Peer,N,73,"21,84",richting Bree
+Limburg,Peer,N,73,"28,5",richting Leopoldsburg
+Limburg,Peer,N,73,"28,7",richting Bree
+Oost-Vlaanderen,Dendermonde,N,17,"16,531",richting baasrode
+Oost-Vlaanderen,Eeklo,N,9,"69,100",
+Oost-Vlaanderen,Gent,N,60,"4,600",thv. Gebuurtestraat richting Oudenaarde
+Oost-Vlaanderen,Gent,N,60,"4,600",thv. Gebuurtestraat  richting Gent
+Oost-Vlaanderen,Gent,N,456,"1,460",
+Oost-Vlaanderen,Lokeren,N,70,"15,990",richting Lokeren
+Oost-Vlaanderen,Lokeren,N,70,"17,032",richting Sint Niklaas
+Oost-Vlaanderen,Oudenaarde,N,8,"59,063",richting Kluisbergen
+Oost-Vlaanderen,Oudenaarde,N,8,"59,532",richting Oudenaarde
+Oost-Vlaanderen,Oudenaarde,N,60,"21,449",richting Gent
+Oost-Vlaanderen,Oudenaarde,N,60,"21,449",richting Ronse
+Vlaams-Brabant,Aarschot,N,10,"35,215",thv. huisnr. 57-59 richting Diest
+Vlaams-Brabant,Aarschot,N,10,"36,962",thv. huisnr. 193 richting Diest
+Vlaams-Brabant,Aarschot,N,19,"40,43",thv. huisnr. 204 richting Aarschot
+Vlaams-Brabant,Aarschot,N,19,"40,654",thv. Basisschool richting Herselt
+Vlaams-Brabant,Aarschot,R,25,"1,892",richting binnenring
+Vlaams-Brabant,Aarschot,R,25,"2,014",richting buitenring
+Vlaams-Brabant,Asse,N,9,"10,275",richting Aalst
+Vlaams-Brabant,Asse,N,9,"11,295",richting Aalst
+Vlaams-Brabant,Asse,N,9,"14,068",richting Aalst
+Vlaams-Brabant,Asse,N,9,"14,98",richting Brussel
+Vlaams-Brabant,Asse,N,47,"0,805",richting Asse
+Vlaams-Brabant,Bekkevoort (Waanrode,N,29,"69,6",richting Diest
+Vlaams-Brabant,Bekkevoort (Waanrode,N,29,"71,45",richting Tienen
+Vlaams-Brabant,Dilbeek,N,8,"3,965",thv. Sleutelplasstraat richting Bru
+Vlaams-Brabant,Glabbeek,N,29,"63,9",richting Diest
+Vlaams-Brabant,Glabbeek,N,29,"64,420",richting Tienen
+Vlaams-Brabant,Glabbeek (Bunsbeek),N,29,"60,7",richting Diest
+Vlaams-Brabant,Glabbeek (Bunsbeek),N,29,"61,5",richting Tienen
+Vlaams-Brabant,Itterbeek,N,8,"6,378",thv. Dreeflaan richting Brussel
+Vlaams-Brabant,Lennik,N,8,"12,572",thv. Loddershoek richting Ninove
+Vlaams-Brabant,Lennik,N,282,"8,4",thv Gaasbeeksestraat
+Vlaams-Brabant,Lennik,N,282,"9,2",thv Gaasbeeksestraat
+Vlaams-Brabant,Leuven,N,2,23,richting Leuven
+Vlaams-Brabant,Leuven,N,2,"26,05",richting Leuven
+Vlaams-Brabant,Leuven,R,23,"2,452","thv. ov-paal C1907B17+4,5m richting"
+Vlaams-Brabant,Leuven,R,23,"3,812",thv. huisnr. 112 richting binnenrin
+Vlaams-Brabant,Leuven,N,25,"2,708",thv. JSR richting Haasrode
+Vlaams-Brabant,Leuven,N,2b,"0,281",richting Leuven
+Vlaams-Brabant,Linter,N,3,"53,321",richting Tienen
+Vlaams-Brabant,Machelen,R,22,"17,93",richting Vilvoorde
+Vlaams-Brabant,Roosdaal,N,8,"16,983",thv. Zilvermond richting Brussel
+Vlaams-Brabant,Rotselaar,N,21,"29,16",richting Betekom
+Vlaams-Brabant,Rotselaar,N,21,"29,635",richting Werchter
+Vlaams-Brabant,Schepdaal,N,8,"10,301",
+Vlaams-Brabant,St-Genesius-Rode,N,5,"11,2",richting Brussel
+Vlaams-Brabant,St-Genesius-Rode,N,5,"8,377",richting Waterloo
+Vlaams-Brabant,Tienen,N,3,"44,2",richting binnenring
+Vlaams-Brabant,Tienen,N,29,"55,1",richting E40
+Vlaams-Brabant,Tienen,N,29,"58,4",richting Diest
+Vlaams-Brabant,Tienen,N,64,"36,93",thv. Waerenveld richting Tienen
+Vlaams-Brabant,Tienen,N,64,"39,65",richting Tienen
+Vlaams-Brabant,Vissenaken,N,223,"17,3",richting Tienen
+Vlaams-Brabant,Wezemaal,N,19,"50,65",richting Aarschot
+Vlaams-Brabant,Wezemaal,N,19,"49,9",richting Leuven
+Vlaams-Brabant,Zoutleeuw,N,3,"56,95",richting Tienen
+West-Vlaanderen,Brugge,N,9,"90,513",Richting Gent
+West-Vlaanderen,Brugge,R,30,"2,475",Richting Oostende
+West-Vlaanderen,Diksmuide,N,35,"27,106",richting Diksmuide
+West-Vlaanderen,Diksmuide,N,35,"24,625",richting Diksmuide
+West-Vlaanderen,Koksijde,N,396,"5,000",
+West-Vlaanderen,Kortrijk,N,8,"88,774",richting  Kortrijk
+West-Vlaanderen,Kortrijk,N,8,"88,459",richting  Wevelgem
+West-Vlaanderen,Kortrijk,N,43,"40,082",richting centrum
+West-Vlaanderen,Kortrijk,N,50,"55,700",richting centrum
+West-Vlaanderen,Oostende,R,31,"2,550",t.h.v. Q8 tankstation - richting centrrum
+West-Vlaanderen,Oostende,R,31,"1,390",t.h.v. Eendrachtstraat
+West-Vlaanderen,Oostende,N,33,"3,397",richting Gistel
+West-Vlaanderen,Oostende,N,33,"3,623",richting Centrum
+West-Vlaanderen,Oostende,N,318,"2,300",richting luchthaven
+West-Vlaanderen,Raversijde,,,"38,525",richting Oostende
+West-Vlaanderen,Vlamertinge,N,38,"5,885",richting Ieper
+West-Vlaanderen,Vlamertinge,N,38,"10,170",richting Poperinge
+,,,,,
+,,,,,
+Legende,,,,,
+Provincie,Provincienaam,,,,
+Gemeente,Gemeentenaam,,,,
+Type weg,"N = gewestweg, R= ringweg",,,,
+Nr weg,Nummer weg,,,,
+kmpt,Kilometerpunt,,,,
+thv / richting,Ter hoogte van / richting,,,,

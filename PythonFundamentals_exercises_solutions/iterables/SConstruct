@@ -1,0 +1,14 @@
+# -*- mode: python -*-
+import SCons
+try:
+	Import('env')
+except SCons.Errors.UserError:
+	env = Environment()
+
+
+env.SConscript('basic/SConstruct')
+env.SConscript('extension_with_area_codes/SConstruct')
+env.SConscript('more_input_files/SConstruct')
+
+
+

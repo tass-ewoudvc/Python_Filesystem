@@ -1,0 +1,21 @@
+# -*- mode: python -*-
+
+import sys, os
+sys.path.append('../../../../isy-academy-common/site_scons')
+import python_exercise_helpers
+
+import SCons
+try:
+	Import('env')
+except SCons.Errors.UserError:
+	env = Environment()
+
+
+python_exercise_helpers.run(env, 'string1.py')
+python_exercise_helpers.run(env, 'string2.py')
+python_exercise_helpers.run(env, 'list1.py')
+python_exercise_helpers.run(env, 'list2.py')
+python_exercise_helpers.run(env, 'mimic.py', os.path.abspath('../small.txt'))
+python_exercise_helpers.run(env, 'wordcount.py', '--count ' + os.path.abspath('../alice.txt'))
+
+

@@ -1,0 +1,18 @@
+# -*- mode: python -*-
+
+import sys, os
+sys.path.append('../../../../isy-academy-common/site_scons')
+import python_exercise_helpers
+
+import SCons
+try:
+	Import('env')
+except SCons.Errors.UserError:
+	env = Environment()
+
+
+python_exercise_helpers.run(env, 'test_awesome.py')
+python_exercise_helpers.run(env, 'test_poweroutlet.py')
+python_exercise_helpers.run(env, 'test_youcontrols.py')
+
+

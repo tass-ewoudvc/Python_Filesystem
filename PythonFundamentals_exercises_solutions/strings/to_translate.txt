@@ -1,0 +1,6 @@
+Enter the English text here that you want translated into
+Pig Latin. This is accomplished via this HTML document and
+accompanying JavaScript program. Note that hyphenated words
+are treated as two words. Words may consist of alphabetic
+characters only (A-Z and a-z). All punctuation, numerals,
+symbols and whitespace are not modified.

@@ -1,0 +1,38 @@
+# -*- mode: python -*-
+
+import sys, os
+sys.path.append('../../../isy-academy-common/site_scons')
+import python_exercise_helpers
+from python_exercise_helpers import run_with_automatic_redirect  # less ambiguous then the other 'run' so import directly
+
+import SCons
+try:
+	Import('env')
+except SCons.Errors.UserError:
+	env = Environment()
+
+python_exercise_helpers.run(env, 'test_temperature.py')
+
+areacodes = os.path.abspath('postcodes.csv')
+cameras = os.path.abspath("snelheidscameras_met_radar_120601.csv")
+default_params = ' '.join(('--areacodes', areacodes, '--cameras', cameras))
+
+run_with_automatic_redirect(env, 'query_cameras.py', default_params + ' --cameras-in-areacode 8400')
+run_with_automatic_redirect(env, 'query_cameras.py', default_params + ' --cameras-on-road E40')
+run_with_automatic_redirect(env, 'query_cameras.py', default_params + ' --cameras-in-city Oostende')
+
+# now do the same, but with a different camera file
+cameras = os.path.abspath("snelheidscameras_met_lus_120601.csv")
+default_params = ' '.join(('--cameras', cameras, '--areacodes', areacodes)) 
+run_with_automatic_redirect(env, 'query_cameras.py', default_params + ' --cameras-in-areacode 8400')
+run_with_automatic_redirect(env, 'query_cameras.py', default_params + ' --cameras-on-road E40')
+run_with_automatic_redirect(env, 'query_cameras.py', default_params + ' --cameras-in-city Oostende')
+
+# now do the same, but with yet another different camera file
+cameras = os.path.abspath("roodlichtcameras_120601.csv")
+default_params = ' '.join(('--cameras', cameras, '--areacodes', areacodes))
+run_with_automatic_redirect(env, 'query_cameras.py', default_params + ' --cameras-in-areacode 8400')
+run_with_automatic_redirect(env, 'query_cameras.py', default_params + ' --cameras-on-road E40')
+run_with_automatic_redirect(env, 'query_cameras.py', default_params + ' --cameras-in-city Oostende')
+
+
